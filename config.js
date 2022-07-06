@@ -53,7 +53,7 @@ global.nameown = 'Ichaa'
 global.owner = [
   ['6283843427860'],
   ['6281575900615'],
-  ['6285692949920'],
+  ['13235934001'],
   ['6285692949920', '❦ Icha', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
